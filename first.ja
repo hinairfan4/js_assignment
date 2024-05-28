@@ -1,0 +1,8 @@
+
+1. Declare 3 variables in one statement.
+
+var variable1 = 1, variable2 = 2, variable3 = 3;
+
+var myVar = "hello";
+var myVar = "hello";
+var myVar = "hello";
